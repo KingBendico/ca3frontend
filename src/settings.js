@@ -1,5 +1,5 @@
 function makeSettings() {
-    const URL = "https://mesterskab.dk/ca3backend";
+    const URL = "https://benjamincholeva.dk/ca3backend";
     const URL_LOCAL = null;
 
     return {
